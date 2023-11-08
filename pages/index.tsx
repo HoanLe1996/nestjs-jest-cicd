@@ -13,7 +13,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://www.facebook.com/photo/?fbid=2381362058768169&set=pob.100009028715848">Thư sàn!</a>
+          Welcome to <a href="https://www.facebook.com/photo/?fbid=2729966483907723&set=pob.100009028715848">Thư sàn!</a>
         </h1>
 
         <p className={styles.description}>
