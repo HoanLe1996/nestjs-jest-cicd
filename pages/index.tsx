@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Wellcome to nestjs</title>
+        <title>Wellcome to Thư Sàn</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -54,7 +54,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by{' my name is Hoan'}
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
